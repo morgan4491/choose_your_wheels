@@ -42,7 +42,7 @@ class Motorbike extends Vehicle{
   wheelie(vehicle: Motorbike): void {
     if (vehicle.make && vehicle.model)
       // TODO: The method should log the message "Motorbike [make] [model] is doing a wheelie!"
-      console.log(`Motorbike ${vehicle.make} ${vehicle.model} is doing a wheelie`);
+      console.log(`Motorbike ${vehicle.make} ${vehicle.model} is doing a wheelie!`);
   }
 
   // TODO: Override the printDetails method from the Vehicle class
