@@ -1,27 +1,27 @@
-# Choose_your_wheels
+# Choose Your Wheels
   
 ## Table of Contents:
 - [Description](#description)
 - [Installation](#installation)
 - [License](#license)
-- [Contributing](#contributing)
-- [Tests](#tests)
+- [Walkthrough Video](#walkthrough)
 - [Questions](#questions)
 
+
 ## Description:
-- This is a CLI application 
+- This is a CLI application that allows the user to create a vehicle of their own, or select an already created vehicle. The user also has the ability to perform a variety of actions with the vehicle.
+
   
 ## Installation:
-- Clone my GitHub repository, then run npm install in the command line terminal, and lastly run node index.js to initiate the application
+- Clone my GitHub repository using the link below, then run 'npm install' in the command line terminal, and lastly run 'npm run start' to initiate the application!
+
   
 ## License:
+- This project is licensed under the MIT license.
 
-This project is licensed under the MIT license.
-  
-## Usage:
-- Quickly generate a README file
   
 ## Walkthrough Video:
+- [Walkthrough Video]()
 
 ## Questions:
-- This application was created by [My GitHub Profile](https://github.com/morgan4491), who can be reached via email at m.morgan4491@gmail.com for any additional questions.
+- This application was created by [Matt Morgan - My GitHub Profile](https://github.com/morgan4491), who can be reached via email at m.morgan4491@gmail.com for any additional questions.
